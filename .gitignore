@@ -1,0 +1,13 @@
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
+
+## Intellij project files:
+*.iws
+*.iml
+*.ipr
+.idea/
+
+# IntelliJ
+out/*
+.gradle/*
